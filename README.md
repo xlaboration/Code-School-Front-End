@@ -4,6 +4,7 @@ Code School
 Welcome to Code School!
 
 Installations 
+--------------
 
 * [Sublime - Text Editor](https://www.sublimetext.com/3)
 * [Java - Text Editor](https://www.java.com/en/download/)
@@ -25,4 +26,17 @@ Agenda
 *	Push to Git & GitHub Pages
 *	Header + Includes References to JS & CSS. (Use external refs, Use the server, includes)
 *	jQuery & Bootstrap
+
+
+Reference Links
+--------------
+
+* [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* [W3Schools](https://www.w3schools.com/html/default.asp)
+* [W3Schools - Bootstrap Sample](* [W3Schools](https://www.w3schools.com/bootstrap/bootstrap_theme_company.asp)
+* [Modern Web Development Overview (20 min video)](https://www.youtube.com/watch?v=sBzRwzY7G-k&t=1s)
+* [StackOverflow](https://stackoverflow.com/)
+* [Bootstrap](https://getbootstrap.com/examples/grid/)
+* [Bootstrap Grid Explanation](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)
+
 
