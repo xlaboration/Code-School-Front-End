@@ -33,7 +33,7 @@ Reference Links
 
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 * [W3Schools](https://www.w3schools.com/html/default.asp)
-* [W3Schools - Bootstrap Sample](* [W3Schools](https://www.w3schools.com/bootstrap/bootstrap_theme_company.asp)
+* [W3Schools - Bootstrap Sample](https://www.w3schools.com/bootstrap/bootstrap_theme_company.asp)
 * [Modern Web Development Overview (20 min video)](https://www.youtube.com/watch?v=sBzRwzY7G-k&t=1s)
 * [StackOverflow](https://stackoverflow.com/)
 * [Bootstrap](https://getbootstrap.com/examples/grid/)
