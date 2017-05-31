@@ -7,7 +7,7 @@ Installations
 --------------
 
 * [Sublime - Text Editor](https://www.sublimetext.com/3)
-* [Java - Text Editor](https://www.java.com/en/download/)
+* [Java](https://www.java.com/en/download/)
 * [Eclipse PHP - IDE](https://eclipse.org/pdt/)
 * [MAMP](https://www.mamp.info/en/)
 * [PHP - Laravel Sample Project](https://github.com/mschwarzmueller/pluralsight-laravel-getting-started) 
