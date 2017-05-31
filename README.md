@@ -20,9 +20,9 @@ Installations
 Agenda
 --------------
 
-•	Downloads and installations
-•	HTML, JavaScript & CSS (One Page)
-•	Push to Git & GitHub Pages
-•	Header + Includes References to JS & CSS. (Use external refs, Use the server, includes)
-•	jQuery & Bootstrap
+*	Downloads and installations
+*	HTML, JavaScript & CSS (One Page)
+*	Push to Git & GitHub Pages
+*	Header + Includes References to JS & CSS. (Use external refs, Use the server, includes)
+*	jQuery & Bootstrap
 
